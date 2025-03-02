@@ -104,3 +104,13 @@ git push -u origin main
 ```
 
 ---
+## **License**  
+
+This project is licensed under the **MIT License**.  
+
+---
+
+## **Contributors**  
+
+👨‍💻 Developed by **Arnab Mukherjee**  
+📧 Contact: **arnabjaymukherjee@gmail.com**  
